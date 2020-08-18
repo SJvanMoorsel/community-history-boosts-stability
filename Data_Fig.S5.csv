@@ -1,0 +1,31 @@
+﻿Factor;response;SS
+Log richness (Rlog);Stability;91.06171995
+Soil treatment (SH);Stability;1.966148059
+Co-occurrence history (CH);Stability;1.898900097
+SH x Rlog;Stability;0.028494899
+CH x Rlog;Stability;5.044736992
+Log richness (Rlog);Population variance;77.90770954
+Soil treatment (SH);Population variance;5.454800084
+Co-occurrence history (CH);Population variance;5.163037136
+SH x Rlog;Population variance;0.044347968
+CH x Rlog;Population variance;11.43010527
+Log richness (Rlog);Asynchrony;99.64782185
+Soil treatment (SH);Asynchrony;0.197416631
+Co-occurrence history (CH);Asynchrony;0.055779768
+SH x Rlog;Asynchrony;0.094060002
+CH x Rlog;Asynchrony;0.004921744
+Log richness (Rlog);Resistance;42.597005
+Soil treatment (SH);Resistance;33.98804784
+Co-occurrence history (CH);Resistance;4.046571678
+SH x Rlog;Resistance;14.22755491
+CH x Rlog;Resistance;5.140820571
+Log richness (Rlog);Resilience;69.88069929
+Soil treatment (SH);Resilience;0.75873599
+Co-occurrence history (CH);Resilience;23.4970794
+SH x Rlog;Resilience;5.07832979
+CH x Rlog;Resilience;0.785155524
+Log richness (Rlog);Recovery;14.80203906
+Soil treatment (SH);Recovery;34.19742794
+Co-occurrence history (CH);Recovery;7.560918943
+SH x Rlog;Recovery;37.67544519
+CH x Rlog;Recovery;5.764168865
